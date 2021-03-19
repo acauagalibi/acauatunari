@@ -7,7 +7,7 @@ Sou Acauã Tunari, Indígena apaixonado por Ciência e Tecnologia. Pesquisador c
 - 🇧🇷 MACAPÁ-AP
 - 🍰 17 anos.
 
-## Skills 
+### Skills 
 
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 
@@ -28,7 +28,7 @@ Sou Acauã Tunari, Indígena apaixonado por Ciência e Tecnologia. Pesquisador c
 
 ### Connect with me:
 
-[<img align="left" alt="Acauã Tunari | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://telegram.com/acauatunari)
+[<img align="left" alt="Acauã Tunari | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/acauatunari)
 
 [<img align="left" alt="Acauã Tunari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/acauatunari)
 
