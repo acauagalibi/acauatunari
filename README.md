@@ -1,6 +1,6 @@
 
 ## 👨🏽 About-me
-Sou Acauã Tunari, Indígena apaixonado por Ciência e Tecnologia. Pesquisador científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação.
+Sou Acauã Tunari, Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação.
 
 - 🔬 Pesquisador-IC | INLC.
 - 💻 Python student.
