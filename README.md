@@ -2,7 +2,7 @@
 
 ## 👨🏽 About-me
 
-Sou Acauã Tunari, Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação.
+Sou Waka'wã Kali'na Tilewuyu, Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação.
 
 - 🔬 Pesquisador-IC | INLC.
 - 💻 Python student.
@@ -30,15 +30,15 @@ Sou Acauã Tunari, Indígena apaixonado por Ciência e Tecnologia. Pesquisador C
 
 ### Connect with me:
 
-[<img align="left" alt="Acauã Tunari | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/acauatunari)
+[<img align="left" alt="Waka'wã Kali'na | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/acauagalibi)
 
-[<img align="left" alt="Acauã Tunari | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/acauatunari)
+[<img align="left" alt="Waka'wã Kali'na | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/acauagalibi)
 
-[<img align="left" alt="Acauã Tunari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://Instagram.com/acauatunari)
+[<img align="left" alt="Waka'wã Kali'na | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://Instagram.com/acauagalibi)
 
-[<img align="left" alt="Acauã Tunari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/acauatunari)
+[<img align="left" alt="Waka'wã Kali'na | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/acauagalibi)
 
-[<img align="left" alt="Acauã Tunari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/acauatunari)
+[<img align="left" alt="Waka'wã Kali'na | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/acauagalibi)
 
 <br />
 <br />
