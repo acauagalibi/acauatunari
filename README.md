@@ -1,4 +1,4 @@
-# Hi, I'm @acauagalibi
+# Hi, I'm @acauatunari
 
 ## 👨🏽 About-me
 
