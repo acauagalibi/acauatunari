@@ -30,15 +30,15 @@ Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnol
 
 ### Connect with me:
 
-[<img align="left" alt="Waka'wã Kali'na | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/acauagalibi)
+[<img align="left" alt="Waka'wã Kali'na | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/acauatunari)
 
-[<img align="left" alt="Waka'wã Kali'na | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/acauagalibi)
+[<img align="left" alt="Waka'wã Kali'na | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/acauatunari)
 
-[<img align="left" alt="Waka'wã Kali'na | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://Instagram.com/acauagalibi)
+[<img align="left" alt="Waka'wã Kali'na | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://Instagram.com/acauatunari)
 
-[<img align="left" alt="Waka'wã Kali'na | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/acauagalibi)
+[<img align="left" alt="Waka'wã Kali'na | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/acauatunari)
 
-[<img align="left" alt="Waka'wã Kali'na | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/acauagalibi)
+[<img align="left" alt="Waka'wã Kali'na | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/acauatunari)
 
 <br />
 <br />
