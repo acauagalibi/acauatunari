@@ -2,7 +2,7 @@
 
 ## 👨🏽 About-me
 
-Sou Waka'wã Kali'na Tilewuyu, Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação.
+Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação com foco em AI
 
 - 🔬 Pesquisador-IC | INLC.
 - 💻 Python student.
