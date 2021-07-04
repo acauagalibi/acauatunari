@@ -2,7 +2,7 @@
 
 ## 👨🏽 About-me
 
-Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação com foco em AI
+Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador-IC Científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação (C/C++) com foco em AI.
 
 - 🔬 Pesquisador-IC | INLC.
 - 💻 Python student.
