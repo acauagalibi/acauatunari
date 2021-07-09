@@ -1,14 +1,5 @@
 # Hi, I'm @acauatunari
 
-## 👨🏽 About-me
-
-Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador-IC Científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação (C/C++) com foco em AI.
-
-- 🔬 Pesquisador-IC | INLC.
-- 💻 Python student.
-- 🇧🇷 MACAPÁ-AP
-- 🍰 17 anos.
-
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
@@ -30,6 +21,15 @@ Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnol
   </a>
 
 </p>
+
+## 👨🏽 About-me
+
+Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador-IC Científico no Instituto Nacional Leva Ciência e estudante autodidata de Ciência da Computação e Programação (C/C++) com foco em AI.
+
+- 🔬 Pesquisador-IC | INLC.
+- 💻 Python student.
+- 🇧🇷 MACAPÁ-AP
+- 🍰 17 anos.
 
 <h2>💻 Some stats 💻</h2>
 
