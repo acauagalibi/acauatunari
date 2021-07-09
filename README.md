@@ -22,7 +22,7 @@ Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnol
   </a>
 
   <a href="https://pt.opensuse.org/Utilizador:Acauatunari"> 
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/suse/suse-icon.svg" alt="Acauã Tunari's OpenSuSe Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" alt="Acauã Tunari's OpenSuSe Profile" height="30" width="30">
   </a>
   
   <a href="https://www.instagram.com/acauatunari/"> 
