@@ -1,8 +1,6 @@
-# Hi, I'm @acauatunari
+# Hi, I'm @acauatunari. You can reach me at: 
 
-<h2 align="center">You can reach me at :alien:</h2>
-
-<p align="center">
+<p align="left">
 
   <a href="https://www.linkedin.com/in/acauatunari/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Acauã Tunari's LinkedIn Profile" height="30" width="30">
