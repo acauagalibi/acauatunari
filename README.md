@@ -10,8 +10,8 @@
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Acauã Tunari's Stack Overflow Profile" height="30" width="30">
   </a>
 
-  <a href="https://pt.opensuse.org/Utilizador:Acauatunari"> 
-    <img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" alt="Acauã Tunari's OpenSuSe Profile" height="30" width="30">
+  <a href="https://forum.zorin.com/u/acauatunari"> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zorin.svg" alt="Acauã Tunari on Zorin OS" height="30" width="30">
   </a>
   
   <a href="https://www.instagram.com/acauatunari/"> 
