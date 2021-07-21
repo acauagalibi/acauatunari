@@ -19,7 +19,7 @@
   </a>
   
   <a href="https://www.facebook.com/acauatunari/"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Acauã Tunari's Facebook Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/facebook/facebook-official.svg" alt="Acauã Tunari's Facebook Profile" height="30" width="30">
   </a>
   
   <a href="https://www.instagram.com/acauatunari/"> 
