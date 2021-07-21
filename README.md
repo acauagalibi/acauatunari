@@ -1,4 +1,4 @@
-# Hi, I'm @acauatunari. You can reach me at: 
+# Hi, I'm @acauatunari. Reach and Connect with me at: 
 
 <p align="left">
 
@@ -14,9 +14,19 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/zorin.svg" alt="Acauã Tunari on Zorin OS" height="30" width="30">
   </a>
   
+  <a href="https://t.me/acauatunari"> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Acauã Tunari's Telegram Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.facebook.com/acauatunari/"> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Acauã Tunari's Facebook Profile" height="30" width="30">
+  </a>
+  
   <a href="https://www.instagram.com/acauatunari/"> 
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Acauã Tunari's Instagram Profile" height="30" width="30">
   </a>
+  
+  
 
 </p>
 
@@ -51,21 +61,6 @@ Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnol
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
 [<img align="left" alt="Bash Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-
-<br />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="Waka'wã Kali'na | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/acauatunari)
-
-[<img align="left" alt="Waka'wã Kali'na | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/acauatunari)
-
-[<img align="left" alt="Waka'wã Kali'na | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://Instagram.com/acauatunari)
-
-[<img align="left" alt="Waka'wã Kali'na | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/acauatunari)
-
-[<img align="left" alt="Waka'wã Kali'na | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/acauatunari)
 
 <br />
 <br />
