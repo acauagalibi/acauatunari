@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://t.me/acauatunari"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Acauã Tunari's Telegram Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Acauã Tunari's Telegram Profile" height="30" width="30">
   </a>
   
   <a href="https://www.facebook.com/acauatunari/"> 
