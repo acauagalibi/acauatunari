@@ -25,8 +25,9 @@
 Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Computação, desenvolvimento (Php) e Cloud (Azure).
 
 - 🔬 Pesquisador-IC | INLC.
-- 💻 C++.
-- 🇧🇷 MACAPÁ-AP
+- 💻 PHP.
+- ☁️ Azure.
+- 🇧🇷 MACAPÁ-AP.
 - 🍰 18 anos.
 
 <h2>💻 Some stats 💻</h2>
