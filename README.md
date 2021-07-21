@@ -28,6 +28,9 @@
   
 </p>
 
+<br />
+<br />
+
 ### Skills 
 
 [<img align="left" alt="C++" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png"/>]()
