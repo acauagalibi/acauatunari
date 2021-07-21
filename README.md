@@ -26,23 +26,7 @@
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Acauã Tunari's Instagram Profile" height="30" width="30">
   </a>
   
-  
-
 </p>
-
-## 👨🏽 About-me
-
-Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Computação, desenvolvimento (Php) e Cloud (Azure).
-
-- 🔬 Pesquisador-IC | INLC.
-- 💻 PHP.
-- ☁️ Azure.
-- 🇧🇷 MACAPÁ-AP.
-- 🍰 18 anos.
-
-<h2>💻 Some stats 💻</h2>
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=acauatunari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### Skills 
 
@@ -61,6 +45,20 @@ Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnol
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
 [<img align="left" alt="Bash Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+
+## 👨🏽 About-me
+
+Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Computação, desenvolvimento (Php) e Cloud (Azure).
+
+- 🔬 Pesquisador-IC | INLC.
+- 💻 PHP.
+- ☁️ Azure.
+- 🇧🇷 MACAPÁ-AP.
+- 🍰 18 anos.
+
+<h2>💻 Some stats 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=acauatunari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 <br />
