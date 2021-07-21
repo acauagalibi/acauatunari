@@ -49,7 +49,7 @@
 <br />
 <br />
 
-## 👨🏽 About-me
+<h2>👨🏽 About-me</h2>
 
 Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Computação, desenvolvimento (Php) e Cloud (Azure).
 
@@ -59,7 +59,7 @@ Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnol
 - 🇧🇷 MACAPÁ-AP.
 - 🍰 18 anos.
 
-<h2>💻 Some stats 💻</h2>
+<h2>💻 Some stats</h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=acauatunari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
