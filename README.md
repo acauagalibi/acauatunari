@@ -30,8 +30,6 @@
 
 ### Skills 
 
-[<img align="left" alt="C++" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.png"/>]()
-
 [<img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />]()
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
@@ -54,7 +52,7 @@
 Sou Acauã Tunari (Waka'wã Kali'na), Indígena apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Computação, desenvolvimento (Php) e Cloud (Azure).
 
 - 🔬 Pesquisador-IC | INLC.
-- 💻 PHP.
+- 💻 Python.
 - ☁️ Azure.
 - 🇧🇷 MACAPÁ-AP.
 - 🍰 18 anos.
