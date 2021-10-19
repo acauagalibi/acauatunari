@@ -54,9 +54,7 @@
 Sou Acauã Tunari (Waka'wã Kali'na), mameluco apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Computação com foco em desenvolvimento de softwares e cyber security
 
 - 🔬 Pesquisador-IC | INLC.
-- 💻 C# .NET.
-- ☁️ Cloud (AWS, Azure).
-- 🐧 Linux 
+- 💻 Rust, Linux, Cloud & CyberSec
 - 🇧🇷 MACAPÁ-AP.
 - 🍰 18 anos.
 
