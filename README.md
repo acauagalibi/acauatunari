@@ -34,13 +34,13 @@
 
 [<img align="left" alt="Linux" width="35px" src="https://img.icons8.com/color/50/000000/linux--v2.png" />]()
 
+[<img align="left" alt="Kali - Cybersec" width="35px" src="https://img.icons8.com/color/48/000000/kali-linux.png" />]()
+
 [<img align="left" alt="Git" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />]()
 
 [<img align="left" alt="AWS" width="35px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />]()
 
 [<img align="left" alt="Azure" width="35px" src="https://img.icons8.com/fluency/48/000000/azure-1.png" />]()
-
-[<img align="left" alt="Cybersec" width="35px" src="https://img.icons8.com/color/48/000000/kali-linux.png" />]()
 
 <br />
 <br />
