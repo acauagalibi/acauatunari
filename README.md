@@ -47,7 +47,12 @@
 
 <h2>👨🏽 About-me</h2>
 
-Sou Acauã Tunari (Waka'wã Kali'na), mameluco apaixonado por Ciência e Tecnologia. Pesquisador Científico no Instituto Nacional Leva Ciência e estudante autodidata de Computação com foco em desenvolvimento de softwares e cyber security
+Sou Acauã Tunari de Araújo (Waka'wã Kali'na), mameluco apaixonado por Ciência e Tecnologia. 
+- Pesquisador Científico no Instituto Nacional Leva Ciência.
+- Prêmio ABRIC de incentivo à Ciência on MOSTRATEC 2021.
+- Estudante de Cyber Segurança na Acadi-TI - Cybersecurity Analystic Jr Course.
+
+https://allmylinks.com/acauatunari
 
 - 🔬 Pesquisador-IC | INLC.
 - 💻 Rust, Linux, Cloud & CyberSec
