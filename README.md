@@ -51,6 +51,7 @@ Sou Acauã Tunari de Araújo (Waka'wã Kali'na), mameluco apaixonado por Ciênci
 - Pesquisador Científico no Instituto Nacional Leva Ciência.
 - Prêmio ABRIC de incentivo à Ciência on MOSTRATEC 2021.
 - Estudante de Cyber Segurança na Acadi-TI - Cybersecurity Analystic Jr Course.
+- Cybersec, Linux, Redes de computadores, LGPD, Hacker Culture.
 
 https://allmylinks.com/acauatunari
 
