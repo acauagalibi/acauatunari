@@ -22,20 +22,21 @@ Sou Acauã Tunari (Waka'wã), mameluco - etnia Galibi Kali'ña, apaixonado por C
 <br />
 
 <h2>📁 Special repositories</h2>
+<h3> ❗❗❗ Building, NOT WORK❗❗❗ </h3>
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/chinese-learn.gif" height="180" width="200" align="left"> 
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/chinese-learn.gif" height="200" width="220" align="left"> 
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/lgpd.gif" height="180" width="200" align="left">
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/lgpd.gif" height="200" width="220" align="left">
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/powershell.gif" height="180" width="200" align="left">
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/powershell.gif" height="200" width="220" align="left">
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/basic-pentest.gif" height="180" width="200" align="left">
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/basic-pentest.gif" height="200" width="220" align="left">
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/hardware-hacking.gif" height="180" width="200" align="left">
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/hardware-hacking.gif" height="200" width="220" align="left">
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/network-defender.gif" height="180" width="200" align="left">
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/network-defender.gif" height="200" width="220" align="left">
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/cloudsec.gif" height="180" width="200">
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/cloudsec.gif" height="200" width="220">
 
 <br />
 
