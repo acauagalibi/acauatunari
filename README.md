@@ -2,7 +2,7 @@
 
 <h2> 🤖About-me </h2>
 
-Sou Acauã Tunari de Araújo (Waka'wã), mameluco da etnia Galibi Kali'ña apaixonado por Ciência e Tecnologia. Blue-team Cybersecurity Stuedent.
+Sou Acauã Tunari (Waka'wã), mameluco - etnia Galibi Kali'ña, apaixonado por Ciência e Tecnologia. Blue-team Cybersecurity Stuedent.
 - Voluntário no Instituto Nacional Leva Ciência.
 - Prêmio ABRIC de incentivo à Ciência on MOSTRATEC 2021.
 - Tecnólogo Cloud Computing na Unopar.
