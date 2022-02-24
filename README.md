@@ -1,4 +1,4 @@
-# Hi, I'm @acauatunari. CSCU & NDE Certifieds in progress 
+# Hi, I'm @acauatunari. CSCU & ACE Certifies in progress 
 
 <h2> 🤖About-me </h2>
 
