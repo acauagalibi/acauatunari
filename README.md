@@ -3,10 +3,11 @@
 <h2> 🤖About-me </h2>
 
 Sou Acauã Tunari (Waka'wã), mameluco - etnia Galibi Kali'ña, apaixonado por Ciência e Tecnologia. Blue-team Cybersecurity.
+- Acadêmico de Cloud Computing.
+- CyberSec Blue Team & CloudSec intern at multiedro.com.br
 - Voluntário no Instituto Nacional Leva Ciência.
-- Prêmio ABRIC de incentivo à Ciência on MOSTRATEC 2021.
-- Acadêmico de Cloud Computing. 
-- CyberSec BLUE-TEAM, CloudSec, Hacker culture.
+- Prêmio ABRIC de incentivo à Ciência on MOSTRATEC 2021. 
+- Hacker culture.
 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Acauã Tunari's LinkedIn Profile" height="30" width="30" align="left">](https://www.linkedin.com/in/acauatunari/)
 
