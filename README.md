@@ -9,6 +9,9 @@ Sou Acauã Tunari (Waka'wã), mameluco - etnia Galibi Kali'ña, apaixonado por C
 - Prêmio ABRIC de incentivo à Ciência on MOSTRATEC 2021. 
 - Hacker culture.
 
+Meu Currículo: [Click Here](https://docs.google.com/document/d/16KsQBCtQQQIbpxKE4YYcHPBZnl4Mqp352YXv4vRmrUU/edit?usp=sharing)
+
+
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Acauã Tunari's LinkedIn Profile" height="30" width="30" align="left">](https://www.linkedin.com/in/acauatunari/)
 
 [<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Acauã Tunari's LinkedIn Profile" height="30" width="30" align="left">](https://medium.com/@acauatunari)
