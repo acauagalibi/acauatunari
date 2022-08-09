@@ -1,11 +1,10 @@
-# Hi, I'm @acauatunari. CSCU & ACE Certifies in progress 
+# Hi, I'm @acauatunari. CompTIA Security+ in progress
 
 <h2> 🤖About-me </h2>
 
-Sou Acauã Tunari (Waka'wã), mameluco - etnia Galibi Kali'ña, apaixonado por Ciência e Tecnologia. Blue-team Cybersecurity.
-- Acadêmico de Cloud Computing.
+Sou Acauã Tunari (Waka'wã), mameluco - etnia Galibi Kali'ña, apaixonado por Ciência e Tecnologia. Blue-team Cyber security / SOC.
+- Acadêmico de Segurança da Informação
 - CyberSec Blue Team & CloudSec intern at multiedro.com.br
-- Voluntário no Instituto Nacional Leva Ciência.
 - Prêmio ABRIC de incentivo à Ciência on MOSTRATEC 2021. 
 - Hacker culture.
 
