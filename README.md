@@ -13,7 +13,7 @@ I'm Acauã Tunari, Brazilian Kali'nã indigenous. Passionate about Computer and 
 - Cyber Threat Intelligence
 - Cloud Security (Azure, AWS)
 - Server Hardening
-- Network Security 
+- Network Security and Firewalls
 - Container Security
 - Security development tools 
 
