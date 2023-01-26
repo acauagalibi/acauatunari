@@ -1,15 +1,23 @@
-# Hi, I'm @acauatunari. CompTIA Security+ in progress
+# Hi, I'm @acauatunari. 
 
 <h2> 🤖About-me </h2>
 
-Sou Acauã Tunari (Waka'wã), mameluco - etnia Galibi Kali'ña, apaixonado por Ciência e Tecnologia. Blue-team Cyber security / SOC.
-- Acadêmico de Segurança da Informação
-- CyberSec Blue Team & CloudSec intern at multiedro.com.br
-- Prêmio ABRIC de incentivo à Ciência on MOSTRATEC 2021. 
-- Hacker culture.
+I'm Acauã Tunari, Brazilian Kali'nã indigenous. Passionate about Computer and Security Engineer and Hacker PRO!.
+
+<h2> 📚 Interests </h2> 
+
+- Cyber Engineer
+- Golang 
+- OWASP
+- SOC / IR
+- Cyber Threat Intelligence
+- Cloud Security (Azure, AWS)
+- Server Hardening
+- Network Security 
+- Container Security
+- Security development tools 
 
 Meu Currículo: [Click Here](https://docs.google.com/document/d/16KsQBCtQQQIbpxKE4YYcHPBZnl4Mqp352YXv4vRmrUU/edit?usp=sharing)
-
 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Acauã Tunari's LinkedIn Profile" height="30" width="30" align="left">](https://www.linkedin.com/in/acauatunari/)
 
@@ -22,26 +30,19 @@ Meu Currículo: [Click Here](https://docs.google.com/document/d/16KsQBCtQQQIbpxK
 
 <br />
 <br />
-<br />
 
 <h2>📁 Special repositories</h2>
 <h3> ❗❗❗ Building, NOT WORK❗❗❗ </h3>
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/chinese-learn.gif" height="200" width="220" align="left"> 
-
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/lgpd.gif" height="200" width="220" align="left">
-
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/powershell.gif" height="200" width="220" align="left">
-
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/basic-pentest.gif" height="200" width="220" align="left">
-
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/hardware-hacking.gif" height="200" width="220" align="left">
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/cloudsec.gif" height="200" width="220" align="left">
 
 <img src="https://github.com/acauatunari/acauatunari/raw/main/img/network-defender.gif" height="200" width="220" align="left">
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/cloudsec.gif" height="200" width="220">
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/hardware-hacking.gif" height="200" width="220" align="left">
 
-<br />
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/basic-pentest.gif" height="200" width="220" align="left">
+
+<img src="https://github.com/acauatunari/acauatunari/raw/main/img/powershell.gif" height="200" width="220">
 
 <h2>📰 My Articles</h2>
 <a href="https://medium.com/@acauatunari/seguran%C3%A7a-online-senhas-fortes-por-que-us%C3%A1-las-2ee29c0ab57b">
