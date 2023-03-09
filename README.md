@@ -2,20 +2,9 @@
 
 <h2> 🤖About-me </h2>
 
-I'm Acauã Tunari, Brazilian Kali'nã indigenous. Passionate about Computer and Security Engineer and Hacker PRO!.
+I'm Acauã Tunari, Brazilian Kali'nã indigenous. Passionate about Computer and Security Engineer.
 
-<h2> 📚 Interests </h2> 
 
-- Cyber Engineer
-- Golang 
-- OWASP
-- SOC / IR
-- Cyber Threat Intelligence
-- Cloud Security (Azure, AWS)
-- Server Hardening
-- Network Security and Firewalls
-- Container Security
-- Security development tools 
 
 Meu Currículo: [Click Here](https://docs.google.com/document/d/16KsQBCtQQQIbpxKE4YYcHPBZnl4Mqp352YXv4vRmrUU/edit?usp=sharing)
 
