@@ -3,7 +3,7 @@
 <h2> 🤖About-me </h2>
 
 I'm Acauã Tunari, Brazilian Kali'nã indigenous. Passionate about Computer and Security Engineer.
-#golang #malwarecoding
+#golang #malwarecoding #network #cloud
 
 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Acauã Tunari's LinkedIn Profile" height="30" width="30" align="left">](https://www.linkedin.com/in/acauatunari/)
