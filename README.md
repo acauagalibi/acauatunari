@@ -8,11 +8,10 @@ I'm Acauã Tunari, Brazilian Kali'nã indigenous. Passionate about Computer and 
 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Acauã Tunari's LinkedIn Profile" height="30" width="30" align="left">](https://www.linkedin.com/in/acauatunari/)
 
-[<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Acauã Tunari's LinkedIn Profile" height="30" width="30" align="left">](https://medium.com/@acauatunari)
+[<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Acauã Tunari's Medium Profile" height="30" width="30" align="left">](https://medium.com/@acauatunari)
 
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Acauã Tunari's Facebook Profile" height="30" width="30" align="left">](https://twitter.com/acauatunari)
+[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Acauã Tunari's Twitter Profile" height="30" width="30" align="left">](https://twitter.com/acauatunari)
 
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Acauã Tunari's Instagram Profile" height="30" width="30" align="left">](https://www.instagram.com/acauatunari/)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Acauã Tunari's Telegram Mensager Profile" height="30" width="30" align="left">](https://t.me/acauatunari)
 
 <br />
