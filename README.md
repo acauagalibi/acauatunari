@@ -2,13 +2,9 @@
 
 <h2> 🤖About-me </h2>
 
-I'm Acauã Tunari, Brazilian Kali'nã indigenous. Passionate about Computer and Security Engineer.
-#golang #malwarecoding #network #cloud
-
-
+I'm Acauã Tunari (Tounaïyalē Waka'wã - native name), Brazilian Kali'nã indigenous. Passionate about Technology and Cyber Security.
+ 
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Acauã Tunari's LinkedIn Profile" height="30" width="30" align="left">](https://www.linkedin.com/in/acauatunari/)
-
-[<img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Acauã Tunari's Medium Profile" height="30" width="30" align="left">](https://medium.com/@acauatunari)
 
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Acauã Tunari's Twitter Profile" height="30" width="30" align="left">](https://twitter.com/acauatunari)
 
@@ -20,25 +16,19 @@ I'm Acauã Tunari, Brazilian Kali'nã indigenous. Passionate about Computer and 
 <h2>📁 Special repositories</h2>
 <h3> ❗❗❗ Building, NOT WORK❗❗❗ </h3>
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/cloudsec.gif" height="200" width="220" align="left">
-
 <img src="https://github.com/acauatunari/acauatunari/raw/main/img/network-defender.gif" height="200" width="220" align="left">
 
 <img src="https://github.com/acauatunari/acauatunari/raw/main/img/hardware-hacking.gif" height="200" width="220" align="left">
 
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/basic-pentest.gif" height="200" width="220" align="left">
-
-<img src="https://github.com/acauatunari/acauatunari/raw/main/img/powershell.gif" height="200" width="220">
-
-<h2>📰 My Articles</h2>
-<a href="https://medium.com/@acauatunari/seguran%C3%A7a-online-senhas-fortes-por-que-us%C3%A1-las-2ee29c0ab57b">
-  Segurança Online: Senhas Fortes, por que usá-las? <br />
-  <img src="https://github.com/acauatunari/acauatunari/raw/main/img/article-strong-pass.png" height="200" width="350"> 
-</a>
-
-<br />
-<br />
-<br />
+<br /> <!--- FAMOSA GAMBIARRA --> 
+<br /> <!--- FAMOSA GAMBIARRA -->
+<br /> <!--- FAMOSA GAMBIARRA -->
+<br /> <!--- FAMOSA GAMBIARRA -->
+<br /> <!--- FAMOSA GAMBIARRA -->
+<br /> <!--- FAMOSA GAMBIARRA -->
+<br /> <!--- FAMOSA GAMBIARRA -->
+<br /> <!--- FAMOSA GAMBIARRA -->
+<br /> <!--- FAMOSA GAMBIARRA -->
 
 <h2>💻 Some stats</h2>
 
